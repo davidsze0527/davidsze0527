@@ -1,6 +1,6 @@
-### Hi there Nice to meet ya 👋
+### Hi there and nice to meet ya 👋
 I'm David from Hong Kong
-Currently studying in CUHK
+\nCurrently studying in CUHK
 Learning Artificial Intelligence
 Enjoy programming
 Love handbell & basketball.
