@@ -1,5 +1,9 @@
-### Hi there 👋
-
+### Hi there Nice to meet ya 👋
+I'm David from Hong Kong
+Currently studying in CUHK
+Learning Artificial Intelligence
+Enjoy programming
+Love handbell & basketball.
 <!--
 **davidsze0527/davidsze0527** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
